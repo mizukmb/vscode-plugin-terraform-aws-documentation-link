@@ -3,6 +3,12 @@
   "displayName": "terraform-aws-provider-document-reference",
   "description": "Jump to AWS provider documentation page.",
   "version": "0.0.1",
+  "publisher": "Yuto MIZUSHIRI",
+  "license": "MIT",
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/mizukmb/vscode-plugin-terraform-aws-documentation-link"
+  },
   "engines": {
     "vscode": "^1.88.0"
   },
